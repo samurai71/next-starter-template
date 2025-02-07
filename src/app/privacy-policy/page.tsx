@@ -1,5 +1,6 @@
 import React from 'react'
 //import "@/styles/privacy-policy.css";
+//import '@/styles/privacy.module.css';
 
 function privacyPolicy() {
   return (
@@ -26,7 +27,7 @@ function privacyPolicy() {
     To send newsletters or marketing materials if you have consented to receive them.
     To comply with legal obligations, including those outlined in the Personal Information Protection and Electronic Documents Act (PIPEDA).</p>
 
-<h3 className='font-bold font-serif tracking-wide'>3. Sharing Your Information</h3>
+<h3 className='font-bold font-serif tracking-wide text-3xl'>3. Sharing Your Information</h3>
 
 <p>We may share your personal information in the following circumstances:</p>
 
